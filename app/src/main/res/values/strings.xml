@@ -1,6 +1,8 @@
 <resources>
     <string name="app_name">ALC_Challenge</string>
-    <string name="alpha_button">Alpha</string>
-    <string name="the_image">The Image</string>
-    <string name="translating">Translating</string>
+    <string name="alpha">Alpha</string>
+    <string name="rotation">Rotation</string>
+    <string name="translation_alpha">Translation/alpha</string>
+    <string name="x">X</string>
+    <string name="y">Y</string>
 </resources>
